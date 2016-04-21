@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
+//no anda para 2.3.3
 public class ejemploFragments extends Fragment {
 
 
